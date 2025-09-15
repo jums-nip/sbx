@@ -1,0 +1,270 @@
+"book","LOB","TPA","descriptors_source_coverage","cov_desc","cov_desc_detail"
+GSMJIF,AL,PMA,AL/10,Unknown,
+GSMJIF,AL,PMA,AL/11,Unknown,
+GSMJIF,AL,Qual-Lynx,AUTO LOSS REPORT ONLY,Report Only,
+GSMJIF,AL,Qual-Lynx,BODILY INJURY BI AL,Bodily Injury,
+GSMJIF,AL,Qual-Lynx,COLLISION AL,Property Damage,
+GSMJIF,AL,Qual-Lynx,MEDICAL PAYMENTS AL,Bodily Injury,
+GSMJIF,AL,Qual-Lynx,PROPERTY DAMAGE PD,Property Damage,
+GSMJIF,APD,PMA,APD/12,Property Damage,
+GSMJIF,APD,PMA,APD/13,Property Damage,
+GSMJIF,APD,PMA,APD/14,Property Damage,
+GSMJIF,APD,PMA,APD/31,Property Damage,
+GSMJIF,APD,Qual-Lynx,COLLISION AP,Property Damage,
+GSMJIF,APD,Qual-Lynx,COMPREHENSIVE AP,Property Damage,
+GSMJIF,Cyber,Qual-Lynx,CYBER,Property Damage,
+GSMJIF,EPL,PMA,EPL/30,Civil Rights,
+GSMJIF,EPL,PMA,EPL/31,Civil Rights,
+GSMJIF,EPL,PMA,EPL/66,Civil Rights,
+GSMJIF,EPL,PMA,EPL/71,Civil Rights,
+GSMJIF,EPL,PMA,EPL/77,Civil Rights,
+GSMJIF,EPL,PMA,EPL/78,Civil Rights,
+GSMJIF,EPL,PMA,EPL/79,Civil Rights,
+GSMJIF,EPL,PMA,EPL/81,Civil Rights,
+GSMJIF,EPL,PMA,EPL/83,Civil Rights,
+GSMJIF,EPL,Qual-Lynx,PERSONAL INJURY,Civil Rights,
+GSMJIF,GL,PMA,GL/30,Unknown,
+GSMJIF,GL,PMA,GL/31,Unknown,
+GSMJIF,GL,PMA,GL/32,Unknown,
+GSMJIF,GL,PMA,GL/33,Unknown,
+GSMJIF,GL,PMA,GL/66,Unknown,
+GSMJIF,GL,PMA,GL/71,Unknown,
+GSMJIF,GL,PMA,GL/72,Unknown,
+GSMJIF,GL,PMA,GL/73,Unknown,
+GSMJIF,GL,PMA,GL/77,Unknown,
+GSMJIF,GL,PMA,GL/78,Unknown,
+GSMJIF,GL,PMA,GL/79,Unknown,
+GSMJIF,GL,Qual-Lynx,BODILY INJURY BI GL,Bodily Injury,
+GSMJIF,GL,Qual-Lynx,LIABILITY REPORT ONLY,Report Only,
+GSMJIF,GL,Qual-Lynx,MEDICAL PAYMENTS GL,Bodily Injury,
+GSMJIF,GL,Qual-Lynx,PERSONAL INJURY (EXCL. POLICE),Personal Injury,
+GSMJIF,GL,Qual-Lynx,POLLUTION SITE GL,Property Damage,
+GSMJIF,GL,Qual-Lynx,PROPERTY DAMAGE GL PD,Property Damage,
+GSMJIF,LEL,PMA,GL/71,Unknown,
+GSMJIF,LEL,Qual-Lynx,POLICE PROFESSIONAL BI,Bodily Injury,
+GSMJIF,LEL,Qual-Lynx,POLICE PROFESSIONAL PD,Property Damage,
+GSMJIF,LEL,Qual-Lynx,POLICE PROFESSIONAL PI,Civil Rights,
+GSMJIF,POL,PMA,POL/30,Unknown,
+GSMJIF,POL,PMA,POL/31,Unknown,
+GSMJIF,POL,PMA,POL/33,Unknown,
+GSMJIF,POL,PMA,POL/71,Unknown,
+GSMJIF,POL,PMA,POL/72,Unknown,
+GSMJIF,POL,PMA,POL/73,Unknown,
+GSMJIF,POL,PMA,POL/77,Unknown,
+GSMJIF,POL,PMA,POL/78,Unknown,
+GSMJIF,POL,PMA,POL/79,Unknown,
+GSMJIF,POL,PMA,POL/82,Unknown,
+GSMJIF,POL,Qual-Lynx,PUBLIC OFFICIALS BI,Bodily Injury,
+GSMJIF,POL,Qual-Lynx,PUBLIC OFFICIALS PI,Civil Rights,
+GSMJIF,Property,PMA,P/01,Property Damage,
+GSMJIF,Property,PMA,P/02,Property Damage,
+GSMJIF,Property,PMA,P/06,Property Damage,
+GSMJIF,Property,PMA,P/07,Property Damage,
+GSMJIF,Property,PMA,P/09,Property Damage,
+GSMJIF,Property,PMA,P/31,Property Damage,
+GSMJIF,Property,PMA,P/40,Property Damage,
+GSMJIF,Property,Qual-Lynx,BOILER AND MACHINERY PR,Property Damage,Boiler and Machinery
+GSMJIF,Property,Qual-Lynx,BUILDING AND CONTENTS PR,Property Damage,Building and Contents
+GSMJIF,Property,Qual-Lynx,BUILDING ONLY,Property Damage,Building Only
+GSMJIF,Property,Qual-Lynx,COLLISION PR,Property Damage,
+GSMJIF,Property,Qual-Lynx,INLAND MARINE PR,Property Damage,
+GSMJIF,Property,Qual-Lynx,POLLUTION SITE PR,Property Damage,
+GSMJIF,Property,Qual-Lynx,PROPERTY DAMAGE PR,Property Damage,
+GSMJIF,WC,CRC,WORKERS COMPENSATION,Bodily Injury,
+GSMJIF,WC,D&H,"243-DENIED",Bodily Injury,Denied
+GSMJIF,WC,D&H,"243-EMPLOYERS LIABILITY",Unknown,Employers Liability
+GSMJIF,WC,D&H,"243-FATALITY",Bodily Injury,Fatality
+GSMJIF,WC,D&H,"243-LOST TIME",Bodily Injury,Lost Time
+GSMJIF,WC,D&H,"243-MED ONLY",Bodily Injury,Med Only
+GSMJIF,WC,D&H,"243-PENDING",Bodily Injury,Pending
+GSMJIF,WC,D&H,"243-PPD MAJOR",Bodily Injury,PPD Major
+GSMJIF,WC,D&H,"243-PPD MINOR",Bodily Injury,PPD Minor
+GSMJIF,WC,D&H,"243-RECORD ONLY",Report Only,Report Only
+GSMJIF,WC,D&H,"243-UNDER INVESTIGATION",Bodily Injury,Under Investigation
+GSMJIF,WC,INSERVCO,Workers' Compensation,Bodily Injury,
+GSMJIF,WC,PMA,WC/00,Bodily Injury,
+GSMJIF,WC,Qual-Lynx,EMPLOYERS LIABILITY,Unknown,Employers Liability
+GSMJIF,WC,Qual-Lynx,WORKCOMP RECORD ONLY,Report Only,
+GSMJIF,WC,Qual-Lynx,WORKERS COMPENSATION,Bodily Injury,
+GSMJIF,WC,Self-Administered,(blank),Bodily Injury,
+PEJIF,AL,CRC,Auto Liability,Unknown,
+PEJIF,AL,CRC,Uninsured/Underinsured,Unknown,UM/UIM
+PEJIF,AL,D&H,"242-3 BODILY INJURY",Bodily Injury,
+PEJIF,AL,D&H,"242-3 PROPERTY DAMAGE",Property Damage,
+PEJIF,AL,D&H,"242-REPORT ONLY",Report Only,
+PEJIF,AL,INSERVCO,Auto Liability,Unknown,
+PEJIF,AL,INSERVCO,Un/Underinsured Motorists(NJ),Unknown,UM/UIM
+PEJIF,AL,Qual-Lynx,BODILY INJURY BI AL,Bodily Injury,
+PEJIF,AL,Qual-Lynx,COLLISION AL,Property Damage,
+PEJIF,AL,Qual-Lynx,PROPERTY DAMAGE PD,Property Damage,
+PEJIF,AL,Self-Administered,(blank),Unknown,
+PEJIF,APD,CRC,Auto Physical Damage,Property Damage,
+PEJIF,APD,D&H,"242-1 PHYSICAL  DAMAGE",Property Damage,
+PEJIF,APD,INSERVCO,Auto Physical Damage,Property Damage,
+PEJIF,APD,Qual-Lynx,COLLISION AP,Property Damage,
+PEJIF,APD,Self-Administered,(blank),Property Damage,
+PEJIF,Cyber,CRC,CYBER,Property Damage,
+PEJIF,Cyber,Qual-Lynx,CYBER,Property Damage,
+PEJIF,EPL,CRC,Employment Practices Liability,Civil Rights,
+PEJIF,EPL,D&H,"241-3 EPLI",Civil Rights,
+PEJIF,EPL,INSERVCO,Employment Law,Civil Rights,
+PEJIF,EPL,Qual-Lynx,PERSONAL INJURY,Civil Rights,
+PEJIF,GL,CRC,General Liability,Unknown,
+PEJIF,GL,D&H,"241-3 GENERAL LIABILITY",Unknown,
+PEJIF,GL,D&H,"241-PUBLIC OFFICIALS LIABILITY",Unknown,
+PEJIF,GL,D&H,"241-REPORT ONLY",Report Only,
+PEJIF,GL,INSERVCO,General / Public Liability,Unknown,
+PEJIF,GL,INSERVCO,General Liability,Unknown,
+PEJIF,GL,Qual-Lynx,BODILY INJURY BI GL,Bodily Injury,
+PEJIF,GL,Qual-Lynx,PERSONAL INJURY (EXCL. POLICE),Personal Injury,
+PEJIF,GL,Qual-Lynx,POLLUTION SITE GL,Property Damage,
+PEJIF,GL,Qual-Lynx,PROPERTY DAMAGE GL PD,Property Damage,
+PEJIF,GL,Qual-Lynx,Public Officials,Unknown,
+PEJIF,GL,Self-Administered,(blank),Unknown,
+PEJIF,LEL,CRC,Police Professional,Unknown,
+PEJIF,LEL,D&H,"241-LAW ENFORCEMENT LIABILITY",Unknown,
+PEJIF,LEL,INSERVCO,Law Enforcement Liability,Unknown,
+PEJIF,LEL,INSERVCO,Police Professional,Unknown,
+PEJIF,LEL,Qual-Lynx,POLICE PROFESSIONAL BI,Bodily Injury,
+PEJIF,LEL,Qual-Lynx,POLICE PROFESSIONAL PD,Property Damage,
+PEJIF,LEL,Qual-Lynx,POLICE PROFESSIONAL PI,Civil Rights,
+PEJIF,POL,CRC,Public Officials,Unknown,
+PEJIF,POL,INSERVCO,Public Officials,Unknown,
+PEJIF,POL,Qual-Lynx,PUBLIC OFFICIALS BI,Bodily Injury,
+PEJIF,POL,Qual-Lynx,PUBLIC OFFICIALS PD,Property Damage,
+PEJIF,POL,Qual-Lynx,PUBLIC OFFICIALS PI,Civil Rights,
+PEJIF,POL,Self-Administered,(blank),Unknown,
+PEJIF,Property,CRC,Property,Property Damage,
+PEJIF,Property,D&H,"241-1-1ST PARTY PROPERTY LOSS",Property Damage,
+PEJIF,Property,INSERVCO,Property,Property Damage,
+PEJIF,Property,Qual-Lynx,BUILDING AND CONTENTS PR,Property Damage,
+PEJIF,Property,Qual-Lynx,BUILDING ONLY,Property Damage,
+PEJIF,Property,Qual-Lynx,POLLUTION SITE PR,Property Damage,
+PEJIF,Property,Qual-Lynx,PROPERTY DAMAGE PR,Property Damage,
+PEJIF,WC,CRC,WORKERS COMPENSATION,Bodily Injury,
+PEJIF,WC,D&H,"243-DENIED",Bodily Injury,Denied
+PEJIF,WC,D&H,"243-FATALITY",Bodily Injury,Fatality
+PEJIF,WC,D&H,"243-LOST TIME",Bodily Injury,Lost Time
+PEJIF,WC,D&H,"243-MED ONLY",Bodily Injury,Med Only
+PEJIF,WC,D&H,"243-PPD MAJOR",Bodily Injury,PPD Major
+PEJIF,WC,D&H,"243-PPD MINOR",Bodily Injury,PPD Minor
+PEJIF,WC,D&H,"243-RECORD ONLY",Report Only,Report Only
+PEJIF,WC,D&H,"243-UNDER INVESTIGATION",Bodily Injury,Under Investigation
+PEJIF,WC,INSERVCO,Workers' Compensation,Bodily Injury,
+PEJIF,WC,Qual-Lynx,EMPLOYERS LIABILITY,Unknown,Employers Liability
+PEJIF,WC,Self-Administered,(blank),Bodily Injury,
+Specialty Programs,AL,AIG,"6",Unknown,
+Specialty Programs,AL,AIG,"7",Unknown,
+Specialty Programs,AL,AIG,"36",Unknown,
+Specialty Programs,AL,AIG,"37",Unknown,
+Specialty Programs,AL,AIG,"306",Unknown,
+Specialty Programs,AL,AIG,"356",Unknown,
+Specialty Programs,AL,AIG,"357",Unknown,
+Specialty Programs,AL,AmTrust Group,CA-Injury,Bodily Injury,
+Specialty Programs,AL,AmTrust Group,CA-Property,Unknown,
+Specialty Programs,AL,Sedgwick,BI,Bodily Injury,
+Specialty Programs,AL,Sedgwick,CL,Unknown,
+Specialty Programs,AL,Sedgwick,MP,Bodily Injury,Med Pay
+Specialty Programs,AL,Sedgwick,NB,Bodily Injury,No Fault
+Specialty Programs,AL,Sedgwick,NF,Bodily Injury,No Fault
+Specialty Programs,AL,Sedgwick,PD,Property Damage,
+Specialty Programs,AL,Sedgwick,UM,Bodily Injury,UM/UIM
+Specialty Programs,AL,Sedgwick,UN,Bodily Injury,UM/UIM
+Specialty Programs,AL,Travelers,AL,Unknown,
+Specialty Programs,AL,Travelers,ALBI,Bodily Injury,
+Specialty Programs,AL,Travelers,ALPD,Property Damage,
+Specialty Programs,AL,Travelers,NFBI,Bodily Injury,No Fault
+Specialty Programs,APD,AIG,"8",Property Damage,
+Specialty Programs,APD,AIG,"9",Property Damage,
+Specialty Programs,APD,AmTrust Group,CA-Auto,Property Damage,
+Specialty Programs,APD,AmTrust Group,CF-Auto,Property Damage,
+Specialty Programs,APD,AmTrust Group,CF-Property,Property Damage,
+Specialty Programs,APD,Sedgwick,CL,Property Damage,Collision
+Specialty Programs,APD,Sedgwick,CM,Property Damage,Comprehensive
+Specialty Programs,APD,Sedgwick,GS,Property Damage,Glass
+Specialty Programs,APD,Sedgwick,IH,Property Damage,Other
+Specialty Programs,APD,Sedgwick,ND,Property Damage,No-fault - Property Damage
+Specialty Programs,APD,Sedgwick,TO,Property Damage,Towing
+Specialty Programs,APD,Sedgwick,UP,Property Damage,Uninsured Motorist-PD
+Specialty Programs,APD,Travelers,COLL,Property Damage,Collision
+Specialty Programs,APD,Travelers,OTC,Property Damage,Comprehensive
+Specialty Programs,Crime,Sedgwick,BG,Property Damage,Burglary
+Specialty Programs,GL,AIG,"3",Unknown,
+Specialty Programs,GL,AIG,"12",Unknown,
+Specialty Programs,GL,AIG,"13",Unknown,
+Specialty Programs,GL,AIG,"67",Unknown,
+Specialty Programs,GL,AIG,"68",Unknown,
+Specialty Programs,GL,AIG,"352",Unknown,
+Specialty Programs,GL,AIG,"353",Unknown,
+Specialty Programs,GL,AIG,"363",Unknown,
+Specialty Programs,GL,AIG,"373",Unknown,
+Specialty Programs,GL,AIG,"383",Unknown,
+Specialty Programs,GL,AmTrust Group,CA-Auto,Unknown,
+Specialty Programs,GL,AmTrust Group,CA-Injury,Bodily Injury,
+Specialty Programs,GL,AmTrust Group,CA-Property,Property Damage,
+Specialty Programs,GL,AmTrust Group,CF-Property,Property Damage,
+Specialty Programs,GL,AmTrust Group,GL-Auto,Unknown,
+Specialty Programs,GL,AmTrust Group,GL-Injury,Bodily Injury,
+Specialty Programs,GL,AmTrust Group,GL-Property,Property Damage,
+Specialty Programs,GL,Sedgwick,AI,Advertising Injury,
+Specialty Programs,GL,Sedgwick,BI,Bodily Injury,
+Specialty Programs,GL,Sedgwick,MP,Bodily Injury,Med Pay
+Specialty Programs,GL,Sedgwick,PD,Property Damage,
+Specialty Programs,GL,Sedgwick,PM,Bodily Injury,Med Pay
+Specialty Programs,GL,Sedgwick,PP,Property Damage,
+Specialty Programs,GL,Travelers,GL,Unknown,
+Specialty Programs,GL,Travelers,GLBI,Bodily Injury,
+Specialty Programs,GL,Travelers,GLPD,Property Damage,
+Specialty Programs,GL,Travelers,PR,Property Damage,
+Specialty Programs,GL,Travelers,PRBI,Bodily Injury,
+Specialty Programs,GL,Travelers,PRPD,Property Damage,
+Specialty Programs,GL,Travelers,UM,Unknown,
+Specialty Programs,IM,AIG,"75",Property Damage,
+Specialty Programs,IM,AmTrust Group,CA-Auto,Property Damage,
+Specialty Programs,IM,AmTrust Group,CA-Property,Property Damage,
+Specialty Programs,IM,AmTrust Group,CF-Auto,Property Damage,
+Specialty Programs,IM,AmTrust Group,CF-Injury,Property Damage,
+Specialty Programs,IM,AmTrust Group,CF-Property,Property Damage,
+Specialty Programs,IM,AmTrust Group,GL-Auto,Property Damage,
+Specialty Programs,IM,AmTrust Group,IM-Injury,Property Damage,
+Specialty Programs,IM,AmTrust Group,IM-Property,Property Damage,
+Specialty Programs,IM,Sedgwick,IC,Property Damage,Contents Damage
+Specialty Programs,IM,Sedgwick,IH,Property Damage,Other
+Specialty Programs,Property,AIG,"26",Property Damage,
+Specialty Programs,Property,AIG,"65",Property Damage,
+Specialty Programs,Property,AIG,"66",Property Damage,
+Specialty Programs,Property,AIG,"69",Property Damage,
+Specialty Programs,Property,AIG,"71",Property Damage,
+Specialty Programs,Property,AIG,"72",Property Damage,
+Specialty Programs,Property,AIG,"73",Property Damage,
+Specialty Programs,Property,AmTrust Group,CF-Injury,Property Damage,
+Specialty Programs,Property,AmTrust Group,CF-Property,Property Damage,
+Specialty Programs,Property,AmTrust Group,CR-Property,Property Damage,
+Specialty Programs,Property,Sedgwick,BD,Property Damage,Building Damage
+Specialty Programs,Property,Sedgwick,CN,Property Damage,Contents Damage
+Specialty Programs,Property,Sedgwick,HG,Property Damage,Household Goods
+Specialty Programs,Property,Sedgwick,OT,Property Damage,Other
+Specialty Programs,Property,Travelers,BRG,Property Damage,
+Specialty Programs,Property,Travelers,FIDL,Property Damage,
+Specialty Programs,Property,Travelers,FIRE,Property Damage,
+Specialty Programs,Property,Travelers,IM,Property Damage,
+Specialty Programs,Property,Travelers,OA,Property Damage,
+Specialty Programs,Property,Travelers,P,Property Damage,
+Specialty Programs,Property,Travelers,PROP,Property Damage,
+Specialty Programs,WC,AmTrust Group,WC-,Bodily Injury,
+Specialty Programs,WC,AmTrust Group,WC-EL,Unknown,Employers Liability
+Specialty Programs,WC,AmTrust Group,WC-FTL,Bodily Injury,Fatality
+Specialty Programs,WC,AmTrust Group,WC-MAJ,Bodily Injury,Major
+Specialty Programs,WC,AmTrust Group,WC-MED,Bodily Injury,Med Only
+Specialty Programs,WC,AmTrust Group,WC-MIN,Bodily Injury,Minor
+Specialty Programs,WC,AmTrust Group,WC-NOC,Bodily Injury,NOC
+Specialty Programs,WC,AmTrust Group,WC-PPD,Bodily Injury,PPD
+Specialty Programs,WC,AmTrust Group,WC-PTD,Bodily Injury,PTD
+Specialty Programs,WC,AmTrust Group,WC-RO,Report Only,Report Only
+Specialty Programs,WC,AmTrust Group,WC-S,Bodily Injury,S
+Specialty Programs,WC,AmTrust Group,WC-SPL,Bodily Injury,SPL
+Specialty Programs,WC,AmTrust Group,WC-TPD,Bodily Injury,TPD
+Specialty Programs,WC,AmTrust Group,WC-TTD,Bodily Injury,TTD
+Specialty Programs,WC,AmTrust Group,WC-VOC,Bodily Injury,VOC
+Specialty Programs,WC,Travelers,EMPL,Unknown,Employers Liability
+Specialty Programs,WC,Travelers,WC,Bodily Injury,

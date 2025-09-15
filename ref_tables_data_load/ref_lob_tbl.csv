@@ -1,0 +1,25 @@
+"coverage","LOB"
+Auto Liability,AL
+Auto Physical Damage,APD
+Crime,Crime
+Cyber,Cyber
+General / Public Liability,GL
+Inland Marine,IM
+Property,Property
+Property (Direct Damage),Property
+Umbrella,Umbrella
+Umbrella Claim,Umbrella
+Law Enforcement Liability,LEL
+Employment Practices Liability,EPL
+Products Liability / Completed Operations,GL
+Public Officials Liability,POL
+Uninsured / Underinsured,AL
+Workers Compensation,WC
+AL,AL
+CA,AL
+CF,Property
+CR,Crime
+GL,GL
+IM,IM
+PR,Property
+WC,WC

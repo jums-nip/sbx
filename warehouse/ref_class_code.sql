@@ -1,0 +1,15 @@
+CREATE TABLE [ref_class_code](
+	[LOB] [varchar](50) NULL,
+	[class_code] [varchar](20) NULL,
+	[class_code_desc] [varchar](300) NULL,
+	[auto_size_class] [varchar](60) NULL,
+	[auto_size_class_type] [varchar](30) NULL,
+	[auto_size_class_weight] [varchar](30) NULL,
+	[auto_business_use_class] [varchar](15) NULL,
+	[auto_radius_class] [varchar](30) NULL,
+	[auto_fleet] [varchar](2) NULL,
+	[auto_classification] [varchar](40) NULL,
+	[auto_subclassification] [varchar](70) NULL,
+	[auto_type] [varchar](30) NULL,
+	[auto_subtype] [varchar](30) NULL
+) ON [PRIMARY]

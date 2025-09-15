@@ -1,0 +1,14 @@
+CREATE TABLE [claims_dh](
+	[as_of] [date] NULL,
+	[public_entity] [varchar](20) NULL,
+	[member_name] [varchar](100) NULL,
+	[claim_number] [varchar](30) NULL,
+	[case_type] [varchar](50) NULL,
+	[descriptors_source_policy_number] [varchar](50) NULL,
+	[descriptors_source_policy_period] [varchar](20) NULL,
+	[insured_name] [varchar](100) NULL,
+	[policy_year] [smallint] NULL,
+	[pol_eff_dt] [date] NULL,
+	[pol_exp_dt] [date] NULL,
+	[policy_number] [varchar](50) NULL
+) ON [PRIMARY]

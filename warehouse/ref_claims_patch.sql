@@ -1,0 +1,9 @@
+CREATE TABLE [ref_claims_patch](
+	[LOB] [varchar](10) NULL,
+	[Claim_Number] [bigint] NULL,
+	[Claimant_Sequence] [int] NULL,
+	[Party_Update] [varchar](20) NULL,
+	[Coverage_Code_Detail] [varchar](255) NULL,
+	[Claim_Type] [varchar](10) NULL,
+	[ref_claim_number] [nvarchar](50) NULL
+) ON [PRIMARY]
